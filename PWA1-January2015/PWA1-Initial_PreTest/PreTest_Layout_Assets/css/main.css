@@ -1,0 +1,127 @@
+/*------ Document -----*/
+body {
+	margin: 0 auto;
+	padding: 0;
+	font: .75em/1.5em Helvetica, Arial, sans-serif;
+	color: #797267;
+	width: 960px;
+	background: #797267;
+}
+
+/* font sizes and colors 
+
+	nav: #423B2E 
+	nav hover: #BF3102
+	h2: 1.5em #423B2E
+	footer: 0.917em #423B2E
+
+*/
+
+/*-------- Navigation ---------*/
+nav {
+	width: 277px;
+	float: right;
+	margin: 85px 65px 0 0;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline-block; /* or float */
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-right: 10px;
+}
+
+nav li a {
+	color: #423B2E;
+	text-decoration: none;
+}
+
+nav li #current,nav li a:hover {
+	color: #BF3102;
+}
+
+/*----- Layout --------*/
+
+header {
+	height: 210px;
+	overflow: auto;
+
+}
+
+#container {
+	overflow: auto;
+}
+
+header h1 {
+	background: url("../images/logo.gif") no-repeat;
+	width: 317px;
+	height: 71px;
+	float: left;
+	margin: 65px 0 0 65px;
+}
+
+header h1 a {
+	display: block;	
+	width: 317px;
+	height: 71px;
+	text-indent: -9999px;
+}
+
+footer {
+	background: url("../images/footer-bg.jpg") no-repeat;
+}
+
+footer p {
+	font-size: .917em;
+	color: #423B2E;
+	width: 250px;
+	margin: 0 auto;
+	padding: 92px 0 20px 0;
+}
+
+/*------ Main Content --------*/
+#banner {
+	background: url("../images/banner.jpg") no-repeat;
+	width: 890px;
+	height: 200px;
+	margin: 0 auto;
+}
+
+#column1of2 {
+	width: 250px;
+	float: left;
+	margin: 25px 0 0 64px;
+}
+
+#column2of2 {
+	width: 450px;
+	float: left;
+	margin: 25px 0 0 44px;
+}
+
+.page-flip {
+	background: url("../images/page-flip.gif") no-repeat bottom left;
+	padding: 0 0 45px 25px;
+}
+
+img {
+	float: left;
+	margin-right: 15px;
+	border: 5px solid #fff;
+}
+
+h2 {
+	font-size: 1.5em;
+	color: #423B2E;
+	border-bottom: 2px solid #797267;
+	padding: 0 0 10px 0;
+	margin: 0;
+}
+
+
