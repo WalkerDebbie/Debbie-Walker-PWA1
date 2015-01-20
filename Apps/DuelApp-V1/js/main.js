@@ -68,9 +68,9 @@
         if (playerOneHealth<1 && playerTwoHealth<1){ // if statement 
             result = "You Both Die"; // if true; print "You Both Die"
         } else if(playerOneHealth<1){ // or if Player 1's health is less than 1 (true)
-            result =playerTwoName+" WINS!!!" // print Player 2's (name) "WINS!!!"
+            result =playerTwoName+" WINS!!!"; // print Player 2's (name) "WINS!!!"
         } else if(playerTwoHealth<1){ // of if Player 2's health < 1 (true)
-            result =playerOneName+" WINS!!!" // print "WINS!!!"
+            result =playerOneName+" WINS!!!"; // print "WINS!!!"
         }; // closing curly braces for the if statement
 
         return result; // console results
@@ -81,4 +81,4 @@
     console.log('program starts') // console "program starts"
     fight(); // call to function fight
 
-})(); // closing funciton
+})(); // closing function

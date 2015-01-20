@@ -1,10 +1,27 @@
-* {
+*{
 	margin:0; padding:0;
 }
 
 body{
-	background: url('http://walkerdebbie.github.io/PWA1-Apps/DuelApp-V1/images/grey_wash_wall.png') repeat;
+	background: url('http://WalkerDebbie.github.io/Debbie-Walker-PWA1/Apps/DuelApp-V1/images/grey_wash_wall.png') repeat;
+}
 
+@media screen {
+	div#preloader {
+		position: absolute;
+		left: -9999px;
+		top:  -9999px;
+	}
+	div#preloader img {
+		display: block;
+	}
+}
+@media print {
+	div#preloader,
+	div#preloader img {
+		visibility: hidden;
+		display: none;
+	}
 }
 
 #scores{
@@ -54,8 +71,8 @@ body{
 }
 
 .heading{
-	color: #1c80b3; 
-	font-family: Arial, Helvetica, sans-serif; 
+	color: #1c80b3;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: 21px;
 }
 
@@ -85,7 +102,7 @@ body{
 	background:-moz-linear-gradient( center top, #BA0419 5%, #F20521 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1b7fb3', endColorstr='#40a3d7');
 	background-color:#BA0419;
-	text-decoration:none !important;	
+	text-decoration:none !important;
 }
 
 .buttonblue:active {
