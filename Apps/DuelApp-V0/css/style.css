@@ -3,8 +3,7 @@
 }
 
 body{
-	background: url('http://WalkerDebbie.github.io/Debbie-Walker-PWA1/Apps/Duel1App-V0/images/grey_wash_wall.png') repeat;
-
+	background: url("../images/grey_wash_wall.png") repeat;
 }
 
 #scores{
@@ -24,12 +23,12 @@ body{
 }
 
 #kabal p{
-	font-family: arial;
+	font-family: Arial, Verdana, or sans-serif;
 	font-size:  25px;
 }
 
 #kratos p{
-	font-family: arial;
+	font-family: Arial, Verdana, or sans-serif;
 	font-size:  25px;
 }
 
@@ -64,7 +63,7 @@ body{
 	-webkit-box-shadow:inset 0px 1px 0px 0px #F20521;
 	box-shadow:inset 0px 1px 0px 0px #F20521;
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #F20521), color-stop(1, #BA0419) );
-	background:-moz-linear-gradient(center top, #F20521 5%, #BA0419 100%);
+	background:-moz-linear-gradient(top, #F20521 5%, #BA0419 100%);
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#40a3d7', endColorstr='#1b7fb3');
 	background-color:#1b7fb3;
 	-moz-border-radius:1px;
@@ -82,7 +81,7 @@ body{
 
 .buttonblue:hover {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #BA0419), color-stop(1, #F20521) );
-	background:-moz-linear-gradient( center top, #BA0419 5%, #F20521 100% );
+	background:-moz-linear-gradient(top, #BA0419 5%, #F20521 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1b7fb3', endColorstr='#40a3d7');
 	background-color:#BA0419;
 	text-decoration:none !important;	
