@@ -9,10 +9,14 @@
 
     console.log("FIGHT!!!"); // output "FIGHT!!!"
 
-
-    //player name
-    var playerOneName = "Spiderman"; //  declare a variable for player 1 to be the value of "Spiderman"
+     //old player name
+    /*var playerOneName = "Spiderman"; //  declare a variable for player 1 to be the value of "Spiderman"
     var playerTwoName = "Batman";  // declare a variable for player 2 to be the value of "Batman"
+    */
+    // array
+    var fighter1=["Spiderman", "Batman"];
+
+
 
     //player damage
     var player1Damage = 20; //  declare a variable player 1 damage to be the value of 20

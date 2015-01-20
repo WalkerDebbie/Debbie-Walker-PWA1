@@ -4,6 +4,9 @@
  Assignment: Goal1: Assignment: Duel1
 */
 
+
+
+
 // self-executing function
 (function(){ // this is a self calling function
 
