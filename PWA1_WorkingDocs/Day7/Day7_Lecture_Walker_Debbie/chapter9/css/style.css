@@ -1,0 +1,16 @@
+/* Debbie Walker */
+
+body{
+    background-color: black;
+    color: gold;
+    margin: 20px;
+    text-align: center;
+    font-size: 150%;
+}
+
+img {
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
