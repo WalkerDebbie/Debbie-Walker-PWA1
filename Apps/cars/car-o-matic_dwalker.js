@@ -144,6 +144,22 @@ function displayCar(car){
     console.log("CONVERTIBLE has this many keys: " + Object.keys(convertible).length);
     document.write("<br>" + "CONVERTIBLE has this many keys: " + Object.keys(convertible).length);
 
+    //************* looping through arrays and loops : USE THIS FOR MID-TERM ****************
+
+    for(var key in car) {
+        console.log("For in Loop Results: ", car[key]);
+        document.write("<br>", "For in Loop Results: ", car[key]);
+    };
+
+    // to call an object category from an array
+    // car[key] = value
+    // to loop through an object change car[key] = value to... key,car[key] in order to loop through the whole object
+
+    for(var key in car) {
+        console.log("For in Loop Results: ", key,car[key]);  //added key(comma) before car
+        document.write("<br>", "For in Loop Results: ", key,car[key]); //added key and , before car
+    };
+
 }
 var carToSell = makeCar();
 displayCar(carToSell);

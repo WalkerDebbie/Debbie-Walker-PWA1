@@ -149,5 +149,10 @@ var carToSell = makeCar();
 displayCar(carToSell);
 
 
+for(var key in car) {
+    document.write("<br>", "For in Loop Results: ", car[key]);
+};
+}
+
 
 
