@@ -34,8 +34,8 @@
 //add break to loop so students stop looping - or for loop may take care of this
 
 
-var students = {                                    //variable students
-    name: ["Greg", "Tommy", "Stew"],           //object array = name: name: ["Robert", "Brandy", "Debbie"],
+var students = {                                    //declare variable students
+    name: ["Greg", "Tommy", "Stew"],           //create an object/array to contain name, address, GPA
     address: ["1504 Stratton Drive, Rogers AR", "750 Jamestown Dr, Winter Park FL", "2010 Newport Rd Semi Valley CA"],                         //object array for address
     GPA: [4.0, 3.9, 3.2]                       //object array for GPAs
 };

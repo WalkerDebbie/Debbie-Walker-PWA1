@@ -29,7 +29,7 @@ function showAnswer(eventObject) {         //declaring function for showing answ
     var image = eventObject.target;     //declaring var to hold target of Element that TRIGGERED Event
     var name = image.id;                //using name of target Element to grab ID property
     name = "images/" + name + ".jpg";      //attaching file extension to end of image name
-    image.src = name;                   //changing source of image ot name
+    image.src = name;                   //changing source of image to name
 }
 
 
