@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fe6ca4d-4735-4b08-a610-5b783c7271df" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/index_dwalker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main_dwalker.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/ArmyStrong.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/CMNH_MiracleBalloon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/CMNLogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/OperationSmile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/Day3BugFlowchart_Walker_Debbie-copy-copy.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/Day3BugFlowchart_Walker_Debbie-copy.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/PWA1_Debug100_Walker_Debbie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/goal3_debug/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/goal3_debug/js/database.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/goal3_debug/js/search.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_DebugFinal_Walker_Debbie/goal3_debug/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/PWA1_Duel3_Walker_Debbie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/flowchart/Day3DuelFlowchart_Walker_Debbie-copy.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/flowchart/Day3DuelFlowchart_Walker_Debbie.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/goal4_assign_duel3.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/css/styleDwalker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/images/131029095128-dav18-rock-em-sock-em-robots.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/images/Untitled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/images/fight_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/images/grey_wash_wall.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/PWA1_Duel3_Walker_Debbie/goal4_assign_duel3/js/mainDwalker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/Untitled-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/ak-gof29e16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/alisiakeys.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/chase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/chaselogo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/ea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/honda-logo-png-ryc-japanimports-wallpaper-2wzwygfc7f2qteng9inkzu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/makeawish.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/microsoft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/nautydog.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/nike-logo-png.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/sony.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/starbucks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/th.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/unitedway.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Apps/goal4_assign_duel3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Apps/goal4_assign_duel3/.idea/workspace.xml" />
     </list>
     <ignored path="Debbie-Walker-PWA1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,30 +74,7 @@
     <favorites_list name="Debbie-Walker-PWA1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30726257" vertical-offset="0" max-vertical-offset="825">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,6 +90,10 @@
         <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day8/mid-term_part1/index.html" />
         <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day7/Day7_Lecture_Walker_Debbie/chapter9/js/image_dwalker.js" />
         <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day8/mid-term_part1/js/main-psuedo.js" />
+        <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/index_onclick.html" />
+        <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main_onclick.js" />
+        <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/index_dwalker.html" />
+        <option value="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main_dwalker.js" />
       </list>
     </option>
   </component>
@@ -71,10 +101,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="643" />
-    <option name="y" value="60" />
-    <option name="width" value="597" />
-    <option name="height" value="678" />
+    <option name="x" value="199" />
+    <option name="y" value="22" />
+    <option name="width" value="925" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -117,49 +147,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Debbie-Walker-PWA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Debbie-Walker-PWA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Debbie-Walker-PWA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Debbie-Walker-PWA1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Apps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goal4_assign_duel3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js" />
+      <recent name="$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Debbie-Walker-PWA1/PWA1-GitApps/DuelApp V1/index.html">
@@ -241,15 +248,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="643" y="60" width="597" height="678" extended-state="0" />
-    <editor active="true" />
+    <frame x="199" y="22" width="925" height="740" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20575221" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -257,12 +266,30 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2495238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20575221" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -285,6 +312,42 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1380">
@@ -394,6 +457,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/BattleShip/js/battleship-final.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/BattleShip/js/battleship.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7119476" vertical-offset="0" max-vertical-offset="611">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/BattleShip/battleship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="611">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day5/Screen Shot 2015-01-14 at 10.41.41 AM.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/Screen Shot 2015-01-26 at 3.04.59 PM.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main_onclick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36290324" vertical-offset="0" max-vertical-offset="1290">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.48387095" vertical-offset="300" max-vertical-offset="1665">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main-psuedo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.31451613" vertical-offset="195" max-vertical-offset="840">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/index_onclick.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5075377" vertical-offset="0" max-vertical-offset="990">
+          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1035">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6281407" vertical-offset="0" max-vertical-offset="810">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1530">
@@ -404,39 +552,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Apps/BattleShip/js/battleship-final.js">
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/js/main_dwalker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="1.9596775" vertical-offset="0" max-vertical-offset="2055">
+          <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Apps/BattleShip/js/battleship.js">
+    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day9/mid-term_part-UPDATED/index_dwalker.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7119476" vertical-offset="0" max-vertical-offset="611">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Apps/BattleShip/battleship.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="611">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PWA1_WorkingDocs/Day5/Screen Shot 2015-01-14 at 10.41.41 AM.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Apps/DuelApp-V1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30726257" vertical-offset="0" max-vertical-offset="825">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.3517588" vertical-offset="0" max-vertical-offset="975">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
